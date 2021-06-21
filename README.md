@@ -5,7 +5,7 @@ python-api-challenge Assignment - Milinda 'ML' Liyanage
 
 ## Summary
 
-* This program is done in two steps.
+* This program is done in two stages.
 * Getting a set of cities, doing some statistical analysis, and then mapping a selected set of cities on Google maps 
 
 ### The following steps were done in the first stage: 
